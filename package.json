@@ -1,0 +1,21 @@
+{
+  "name": "strengths-finder-viewer-nuxt",
+  "version": "1.0.0",
+  "description": "My exquisite Nuxt.js project",
+  "author": "Kazu Death",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.0.0",
+    "pdfjs-dist": "^2.2.228",
+    "sass-loader": "^8.0.2",
+    "vuedraggable": "^2.23.2"
+  },
+  "devDependencies": {}
+}
